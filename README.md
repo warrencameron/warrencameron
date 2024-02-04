@@ -9,4 +9,4 @@ I am a results-oriented software engineer with advanced analytical, troubleshoot
 I have experience in systems administration (Windows and Linux) and Configuration Management. My mantra is "documentation beats conversation". I try to document everything. One, for my memory and two, for others to see what I'm doing and maybe learn something new.
 
 I am very passionate about technology and like to be curious about how things work. I am interested in cybersecurity and cloud technologies. Currently, I am learning how to use Terraform. I'm learning multiple things so that I can see where my current skills can be applied while using cloud technologies.
---->
+
