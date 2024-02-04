@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @warrencameron
-- 👀 I’m interested in Python, drones and cybersecurity
-- 🌱 I’m currently learning coding drones using Python and cybersecurity
+- 👀 I’m interested in cybersecurity, Python and drones
+- 🌱 I’m currently learning Terraform and going thru the Google Cybersecurity Certificate
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
