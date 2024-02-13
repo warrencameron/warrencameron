@@ -19,6 +19,10 @@
 
   - [DiskWipe (Disk Cleaning Utility)](https://github.com/warrencameron/diskwipe)
 
+- <b>Python</b>
+
+  - [Gen_Names (Name Generator)](https://github.com/warrencameron/gen_names)
+
 <h2>👨‍💻 AWS Projects:</h2>
 - <b>Coming Soon!</b>
 
