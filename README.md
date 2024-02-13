@@ -14,7 +14,10 @@
 -  My mantra is "documentation beats conversation". I try to document everything. One, for my memory and two, for others to see what I'm doing and maybe learn something new.
  
 <h2>👨‍💻 DevSecOps Projects:</h2>
-- <b>Coming Soon!</b>
+
+- <b>PowerShell</b>
+
+  - [DiskWipe (Disk Cleaning Utility)](https://github.com/warrencameron/diskwipe)
 
 <h2>👨‍💻 AWS Projects:</h2>
 - <b>Coming Soon!</b>
